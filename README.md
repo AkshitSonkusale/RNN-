@@ -1,1 +1,2 @@
-# RNN-
+# RNN
+Many to one - practical 
